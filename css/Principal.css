@@ -62,18 +62,18 @@ img#img_imagen{
 .articulos
 {
    width: 60%;
-   color: springgreen;
+   color: coral;
    margin: 10px;
    padding: 20px;
    float: left;
-   border: 1px solid greenyellow;
+   border: 1px solid coral;
 
 }
 
 img#ImagenCoronavirus{
    width: 70%;
    margin: 10px;
-   border: 1px solid red;
+   border: 1px solid rgb(122, 9, 107);
    float: left;
 
 
