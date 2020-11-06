@@ -32,31 +32,51 @@ img#img_imagen{
 
 
 .Linea1{
-   width:70%;
-   height: 302px;
+   width:90%;
+   height: 322px;
    border: 1px solid black;
+   margin: 10px;
 }
 
 .Columna1{
-   width: 50%;
+   width: 45%;
    height: 302px;
-   border: 1px solid black;
+   border: 2px solid blue;
+   margin: 10px;
+   float: left;
+
 
 }
-.Columna1{
-   width: 50%;
+.Columna2{
+   width: 45%;
    height: 302px;
-   border: 1px solid black;
+   border: 2px solid blue;
+   margin: 10px;
+   float: left;
+}
 
+.seccion_articulos
+{
+ color: grey ;  
 }
 .articulos
 {
-   
+   width: 60%;
    color: springgreen;
+   margin: 10px;
+   padding: 20px;
+   float: left;
+   border: 1px solid greenyellow;
+
 }
 
 img#ImagenCoronavirus{
-   width: 201px;
+   width: 70%;
+   margin: 10px;
+   border: 1px solid red;
+   float: left;
+
+
 }
 
 
