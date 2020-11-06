@@ -36,13 +36,12 @@ img#img_imagen{
    height: 322px;
    border: 1px solid black;
    margin: 10px;
-   display: inline inline-flex;
 }
 
 .Columna1{
    width: 45%;
    height: 302px;
-   border: 1px solid black;
+   border: 2px solid blue;
    margin: 10px;
    float: left;
 
@@ -51,7 +50,7 @@ img#img_imagen{
 .Columna2{
    width: 45%;
    height: 302px;
-   border: 1px solid black;
+   border: 2px solid blue;
    margin: 10px;
    float: left;
 }
@@ -62,16 +61,22 @@ img#img_imagen{
 }
 .articulos
 {
-   
+   width: 60%;
    color: springgreen;
-   margin: 20px;
+   margin: 10px;
    padding: 20px;
    float: left;
+   border: 1px solid greenyellow;
 
 }
 
 img#ImagenCoronavirus{
-   width: 200px;
+   width: 70%;
+   margin: 10px;
+   border: 1px solid red;
+   float: left;
+
+
 }
 
 
