@@ -1,0 +1,62 @@
+body
+{
+    background-color: beige;
+}
+
+ header{
+
+    background: cadetblue;
+    color: blue;
+}|
+
+div#header_Logo{
+
+   border: 1px solid black;
+   width: 90%;
+   padding: 10px;
+   border-color: black;
+}
+
+img#figure_imagen
+{
+   width: 100px;
+   height: 100px;
+}
+
+img#img_imagen{
+   width: 50%;
+   height: 50%; 
+   margin: 10px;
+}
+
+
+
+.Linea1{
+   width:70%;
+   height: 302px;
+   border: 1px solid black;
+}
+
+.Columna1{
+   width: 50%;
+   height: 302px;
+   border: 1px solid black;
+
+}
+.Columna1{
+   width: 50%;
+   height: 302px;
+   border: 1px solid black;
+
+}
+.articulos
+{
+   
+   color: springgreen;
+}
+
+img#ImagenCoronavirus{
+   width: 200px;
+}
+
+
